@@ -69,12 +69,6 @@ USER_AGENT = "UnsubBot"
    All done!
    ```
 
-## Important Notes
-
-- Ensure your Reddit account has the necessary permissions to unsubscribe from subreddits.
-- Use caution when running scripts like this, as it will unfollow all subreddits.
-- The script uses Reddit's API with your credentials; keep them secure and do not share your client ID, secret, or password.
-- You can modify the script to target specific subreddits by changing the logic for `subscribed_subs` (e.g., filter based on name or category).
 
 ## Troubleshooting
 
